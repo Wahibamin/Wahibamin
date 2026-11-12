@@ -1,77 +1,77 @@
 # وهيب الكبودي | Wahib Al-Kaboudi
 
-**Software Developer | Python & Applied AI | Flutter & .NET | Computer Networks & CCTV Systems**
+**Software Developer | Python & Applied AI | Flutter & .NET | Computer Networks & CCTV**
 
-مطور برمجيات ومتخصص في شبكات الحاسوب وأنظمة كاميرات المراقبة في اليمن. أعمل على تطبيقات الهواتف والأنظمة المكتبية ومشاريع Python وتحليل البيانات، وأجمع بين العمل البرمجي والخبرة التقنية الميدانية.
+مطور برمجيات ومتخصص في الشبكات وأنظمة كاميرات المراقبة من اليمن. أعمل على تطوير تطبيقات الهواتف والأنظمة المكتبية ومشروعات Python وتعلم الآلة، وأجمع بين التطوير البرمجي والخبرة التقنية الميدانية.
 
 ## نبذة مهنية
 
-أطوّر تطبيقات باستخدام **Flutter وDart وC# و.NET وPython**، مع اهتمام بقواعد البيانات وهندسة البرمجيات والاختبارات. أتابع برنامجًا تدريبيًا تطبيقيًا في الذكاء الاصطناعي وعلوم البيانات، ووصلت حاليًا إلى مرحلة **الرؤية الحاسوبية (Computer Vision)**.
+أطوّر تطبيقات باستخدام **Flutter وDart وC# و.NET وPython**، مع اهتمام بقواعد البيانات وهندسة البرمجيات وتصميم الأنظمة واختبارها. أتابع برنامجًا تدريبيًا تطبيقيًا في الذكاء الاصطناعي وعلوم البيانات، ووصلت حاليًا إلى مرحلة **الرؤية الحاسوبية (Computer Vision)**.
 
 ## المهارات التقنية
 
 | المجال | التقنيات والأدوات |
 |---|---|
-| تطوير تطبيقات الهواتف والأنظمة المكتبية | Flutter, Dart, Android, C#, .NET, WPF |
-| Python وتطوير الويب | Python, Django, HTML/CSS, REST APIs |
+| تطبيقات الهواتف | Flutter, Dart, Android |
+| تطبيقات سطح المكتب | C#, .NET, WPF |
+| Python وتطوير الويب | Python, Django, REST APIs, HTML, CSS |
 | البيانات وقواعد البيانات | SQL, SQLite, Drift, Pandas, Data Engineering |
-| تعلم الآلة والتعلم العميق | Scikit-learn, Model Evaluation, Feature Engineering, Deep Learning, Computer Vision (قيد الدراسة) |
-| هندسة البرمجيات | Git, GitHub, Linux, Unit Testing, Software Architecture |
-| الشبكات وأنظمة المراقبة | TCP/IP, LAN/WLAN, MikroTik, CCTV, Network Troubleshooting |
+| تعلم الآلة | Scikit-learn, Feature Engineering, Model Evaluation |
+| التعلم العميق والرؤية الحاسوبية | Deep Learning, Computer Vision (قيد الدراسة) |
+| هندسة البرمجيات | Git, GitHub, Linux, Software Architecture, Testing |
+| الشبكات وأنظمة المراقبة | LAN/WLAN, TCP/IP, MikroTik, CCTV, Troubleshooting |
 
-## البرنامج التدريبي في الذكاء الاصطناعي
+## التدريب التطبيقي في الذكاء الاصطناعي
 
 **المستوى الحالي: Computer Vision.**
 
-تدرّج البرنامج من Python وهندسة البرمجيات وGit وLinux إلى قواعد البيانات وSQL وAPIs، ثم هندسة البيانات وتعلم الآلة والتعلم العميق. أدرس حاليًا موضوعات الرؤية الحاسوبية.
+تشمل المراحل التي درستها: Python، هندسة البرمجيات، Git وLinux، قواعد البيانات وSQL وAPIs، هندسة البيانات، تعلم الآلة، والتعلم العميق. وصلت حاليًا إلى مرحلة الرؤية الحاسوبية.
 
-**المراحل القادمة في الخطة التدريبية:** NLP & Transformers، LLMs & Generative AI، RAG & Agents & MCP، AI Engineering & MLOps. هذه المراحل لم تكتمل بعد.
+**مراحل لاحقة في الخطة لم تكتمل بعد:** NLP & Transformers، LLMs & Generative AI، RAG & Agents & MCP، AI Engineering & MLOps.
 
-### المشاريع التطبيقية ضمن البرنامج
+### مشاريع الدورة العملية
 
-**1. رف — المكتبة العربية الرقمية (Python/Django)**
+**1. رف | RAF — المكتبة العربية الرقمية (Python/Django)**
 
-مشروع ويب عربي لتطبيق Python وLinux وGit وقواعد البيانات وSQL وهندسة البرمجيات، مع وظائف تنظيم الكتب والمستخدمين ومحتوى المكتبة.
+أول مشروع عملي في البرنامج التدريبي. تطبيق ويب عربي لإدارة مكتبة رقمية، طُبّقت فيه مفاهيم Python وLinux وGit وقواعد البيانات وSQL وهندسة البرمجيات، مع إدارة الحسابات والكتب والاشتراكات.
 
-**2. الوصول إلى المستشفيات في اليمن (Machine Learning)**
+**2. الوصول إلى المستشفيات في اليمن | Yemen Hospital Accessibility (Machine Learning)**
 
-تحليل بيانات مكانية وسكانية، وبناء نموذج انحدار لتقدير مؤشر الوصول إلى المستشفيات خلال ساعة على مستوى المديريات، مع تقييم مقسّم بحسب المحافظات وتوثيق القيود العلمية.
+مشروع لتحليل مؤشرات الوصول إلى الخدمات الصحية على مستوى المديريات، وبناء نموذج انحدار لتقدير نسبة السكان الذين يمكنهم الوصول إلى مستشفى خلال ساعة، مع تقييم يراعي التقسيم الإداري للمحافظات.
 
-**3. التعرف على حروف لغة الإشارة العربية (Machine Learning & Computer Vision)**
+**3. التعرف على حروف لغة الإشارة العربية | Arabic Sign Language Recognition**
 
-مشروع لتصنيف صور إشارات الحروف الثابتة باستخدام تقنيات تعلم الآلة والتعلم العميق والرؤية الحاسوبية، مع أدوات للتقييم وتجربة النماذج.
+مشروع رؤية حاسوبية لتصنيف صور حروف لغة الإشارة العربية الثابتة، يجمع بين استخراج الخصائص باستخدام الشبكات العصبية وأساليب تعلم الآلة. لا يمثل ترجمة للغة الإشارة المستمرة.
 
-## مشاريع برمجية
+## مشاريع برمجية مستقلة
 
-| المشروع | الوصف | التقنيات |
+| المشروع | وصف مختصر | التقنيات |
 |---|---|---|
-| [مقوتي (Maqwati)](https://github.com/Wahibamin/Maqwati) | إدارة المبيعات والمخزون والديون والمصاريف | Flutter, Dart, SQLite |
-| دفتر الحساب (Daftar Al-Hesab) | نظام محاسبي للهواتف والفواتير والتقارير | Flutter, Dart, SQLite |
-| الوهيب ERP (AlWahib ERP) | نموذج محاسبي مكتبي على Windows | C#, .NET, WPF |
-| جدولي (Jadwali) | المهام والتقويم ومتابعة الإنجاز | Flutter, Dart |
+| [مقوتي (Maqwati)](https://github.com/Wahibamin/Maqwati) | إدارة المبيعات والمخزون والديون والمصاريف | Flutter, Dart, Drift, SQLite |
+| دفتر الحساب (Daftar Al-Hesab) | إدارة الفواتير والمخزون والحسابات على الهاتف | Flutter, Dart, SQLite |
+| الوهيب ERP (AlWahib ERP) | نموذج لنظام محاسبي مكتبي على Windows | C#, .NET, WPF, SQLite |
+| جدولي (Jadwali) | تنظيم المهام والتقويم ومتابعة الإنجاز | Flutter, Dart |
 | متابعتي (Mutabaati) | متابعة العادات والمصاريف والمهام والتقارير | Flutter, Dart, SQLite |
 
-تُضاف روابط المستودعات المتبقية بعد اكتمال نشر ملفاتها.
+*ستضاف الروابط المباشرة لبقية المستودعات بعد اكتمال نشر ملفاتها.*
 
-## الخبرة العملية في الشبكات وأنظمة المراقبة
+## الخبرة الفنية في الشبكات وأنظمة كاميرات المراقبة
 
-خبرة ميدانية في شبكات الحاسوب وأنظمة كاميرات المراقبة ضمن مشاريع في **محافظة ذمار، اليمن**. من أبرز المنشآت التي شاركت في مشروعاتها:
+خبرة عملية في الشبكات السلكية واللاسلكية وأنظمة CCTV، والمشاركة في أعمال تقنية ضمن مشاريع في **محافظة ذمار، اليمن**، من أبرزها:
 
-- **مستشفى نجم الجزيرة:** أعمال تقنية تتعلق بالشبكات وأنظمة كاميرات المراقبة.
-- **حديقة أرض الأحلام:** المشاركة في الأعمال الفنية المتعلقة بالشبكات وأنظمة المراقبة.
+- **مستشفى نجم الجزيرة:** أعمال متعلقة بالشبكات وأنظمة كاميرات المراقبة.
+- **حديقة أرض الأحلام:** أعمال تقنية متعلقة بالشبكات وأنظمة المراقبة.
 
 ## Professional Summary
 
-I am **Wahib Al-Kaboudi**, a software developer and computer networking/CCTV specialist based in Yemen. My work includes Flutter and .NET applications, Python/Django projects, and applied machine learning.
+I am **Wahib Al-Kaboudi**, a software developer and computer networking/CCTV specialist based in Yemen. My work includes Flutter mobile applications, C#/.NET desktop systems, Python/Django web development, and applied machine learning projects.
 
-I am currently studying **Computer Vision** within a structured AI training program. My practical coursework includes a Python/Django digital library, a machine-learning project on hospital accessibility in Yemen, and an Arabic sign-language alphabet recognition project. NLP, LLMs, RAG, Agents, MCP, and MLOps are planned stages rather than completed coursework.
+I am studying a structured AI program and have reached its **Computer Vision** stage. The practical coursework includes a Python/Django digital library, a machine-learning project on hospital accessibility in Yemen, and an Arabic sign-language alphabet recognition project. NLP, LLMs, RAG, Agents, MCP, and MLOps are planned later stages, not completed coursework.
 
-I have also contributed to networking and CCTV projects in Dhamar Governorate, including work at Najm Al-Jazeera Hospital and Ard Al-Ahlam Park.
+I have also participated in networking and CCTV-related technical projects in Dhamar Governorate, including Najm Al-Jazeera Hospital and Ard Al-Ahlam Park.
 
-## التواصل
+## التواصل | Contact
 
-**الموقع:** اليمن
-
-**GitHub:** [Wahibamin](https://github.com/Wahibamin)
-
-**المجالات:** Software Development · Applied AI · Networks · CCTV
+**الموقع:** اليمن  
+**GitHub:** [github.com/Wahibamin](https://github.com/Wahibamin)  
+**المجالات:** Software Development, Applied AI, Networks, CCTV
