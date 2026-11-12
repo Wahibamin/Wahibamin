@@ -1,16 +1,248 @@
-## Hi there 👋
+# وهيب الكبودي | Wahib Al-Kaboudi
 
-<!--
-**Wahibamin/Wahibamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Flutter & Dart | C# & .NET | Computer Networks & CCTV Systems**
 
-Here are some ideas to get you started:
+مطور برمجيات ومتخصص في شبكات الحاسوب وأنظمة كاميرات المراقبة، أمتلك خبرة عملية في تطوير تطبيقات الهواتف والأنظمة المكتبية، إلى جانب المشاركة في تنفيذ مشاريع تقنية وميدانية في محافظة ذمار، اليمن.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+أهتم ببناء حلول برمجية عملية تساعد على تنظيم الأعمال وتحسين كفاءة العمليات اليومية، مع التركيز على جودة البرمجة، وسهولة الاستخدام، وتنظيم البيانات، وتطوير أنظمة تتناسب مع احتياجات المستخدمين.
+
+---
+
+## نبذة مهنية | Professional Profile
+
+أجمع بين تطوير البرمجيات والعمل التقني الميداني، ولدي خبرة في مجالين رئيسيين:
+
+**تطوير البرمجيات (Software Development)**
+
+تطوير تطبيقات الهواتف باستخدام Flutter وDart، وتطبيقات سطح المكتب باستخدام C# و.NET، مع الاهتمام بقواعد البيانات المحلية، وتصميم الواجهات العربية، وبناء الأنظمة المحاسبية والإدارية.
+
+**شبكات الحاسوب وأنظمة المراقبة (Networking & CCTV)**
+
+خبرة عملية في شبكات الحاسوب وأنظمة كاميرات المراقبة، والمشاركة في تنفيذ مشاريع تقنية في منشآت خدمية وتجارية بمحافظة ذمار.
+
+أسعى إلى توظيف معارفي التقنية وخبرتي العملية في تطوير حلول موثوقة، والمساهمة ضمن فرق عمل متخصصة في تطوير البرمجيات والبنية التحتية التقنية.
+
+---
+
+## المهارات التقنية | Technical Skills
+
+### تطوير البرمجيات
+
+| المجال | التقنيات والمهارات |
+|---|---|
+| Mobile Development | Flutter, Dart, Android |
+| Desktop Development | C#, .NET, WPF |
+| Databases | SQLite, SQL, Drift ORM |
+| State Management | Riverpod, Provider, Bloc/Cubit |
+| Software Architecture | Layered Architecture, Separation of Concerns |
+| Development Tools | Visual Studio, VS Code, Android Studio |
+| Version Control | Git, GitHub |
+| Testing | Unit Testing, Integration Testing |
+| Additional Skills | REST APIs, PDF Generation, Local Data Storage |
+
+### الشبكات وأنظمة المراقبة
+
+- شبكات الحاسوب السلكية واللاسلكية (LAN / WLAN).
+- إعداد وتهيئة أجهزة التوجيه ونقاط الوصول.
+- التعامل مع أجهزة MikroTik وإعدادات الشبكات.
+- إعداد شبكات TCP/IP والخدمات الأساسية.
+- أنظمة كاميرات المراقبة (CCTV).
+- العمل الفني الميداني في مشاريع الشبكات وأنظمة المراقبة.
+- تشخيص المشكلات التقنية واستكشاف الأعطال.
+- التعامل مع متطلبات الشبكات والبنية التحتية في المنشآت.
+
+---
+
+## المشاريع البرمجية | Software Projects
+
+مجموعة من التطبيقات والأنظمة التي طورتها، وتركز على تقديم حلول عملية في المحاسبة والإدارة وتنظيم الأعمال والحياة اليومية.
+
+### 01. دفتر الحساب | Daftar Al-Hesab
+
+**Mobile Accounting & Inventory Management System**
+
+تطبيق محاسبي عربي للهواتف الذكية، يهدف إلى مساعدة أصحاب الأنشطة التجارية في إدارة العمليات المالية والمخزون من واجهة موحدة.
+
+**أبرز الوظائف:**
+- إدارة فواتير المبيعات والمشتريات والمرتجعات.
+- إدارة الأصناف والمخزون والباركود.
+- إدارة العملاء والموردين وحساباتهم.
+- تسجيل سندات القبض والصرف.
+- إعداد تقارير الأرباح والخسائر.
+- التعامل مع عمليات الدفع والرصيد المستحق.
+- حفظ البيانات محليًا.
+
+**التقنيات:** Flutter, Dart, SQLite
+
+**الجوانب الهندسية:** تصميم واجهات عربية، منطق محاسبي، إدارة البيانات المحلية، التقارير، والاختبارات الآلية.
+
+### 02. مقوتي | Maqwati
+
+**Sales, Inventory & Daily Accounting Application**
+
+تطبيق لإدارة المبيعات والحسابات اليومية للأنشطة التجارية الصغيرة، مع التركيز على تبسيط تسجيل العمليات ومتابعة الحسابات والمخزون.
+
+**أبرز الوظائف:**
+- تسجيل المبيعات النقدية والآجلة.
+- إدارة الموردين والزبائن.
+- متابعة الديون والمستحقات.
+- إدارة المخزون والكميات المتاحة.
+- تسجيل المرتجعات والتالف.
+- إدارة المصاريف التشغيلية والشخصية.
+- متابعة الملخصات المالية اليومية.
+- النسخ الاحتياطي وإدارة البيانات المحلية.
+
+**التقنيات:** Flutter, Dart, Riverpod, Drift, SQLite
+
+**الجوانب الهندسية:** معالجة العمليات المحاسبية، تنظيم قواعد البيانات، إدارة الحالة، وتصميم واجهات مناسبة للاستخدام الميداني.
+
+### 03. الوهيب ERP | AlWahib ERP
+
+**Desktop Accounting & Enterprise Resource Management Prototype**
+
+نظام محاسبي مكتبي مطور للعمل على Windows، يهدف إلى تنظيم العمليات التجارية والمالية ضمن تطبيق محلي دون الحاجة إلى اتصال دائم بالإنترنت.
+
+**أبرز الوحدات:**
+- الأصناف والمخزون.
+- العملاء والموردون.
+- فواتير البيع والشراء والمرتجعات.
+- الصندوق والسداد.
+- الحسابات والقيود المحاسبية.
+- التقارير المالية.
+- المستخدمون والصلاحيات.
+- النسخ الاحتياطي وإدارة البيانات.
+
+**التقنيات:** C#, .NET 10, WPF, SQLite
+
+**الجوانب الهندسية:** تصميم نظام متعدد الطبقات، فصل منطق الأعمال عن الواجهات، معالجة العمليات المحاسبية، والاختبارات البرمجية.
+
+*حالة المشروع: نموذج أولي وظيفي قابل للتطوير.*
+
+### 04. جدولي | Jadwali
+
+**Daily Planner & Personal Productivity Application**
+
+تطبيق لتنظيم الوقت وإدارة المهام اليومية، يجمع بين التخطيط الشخصي ومتابعة الإنجازات والصلوات.
+
+**أبرز الوظائف:**
+- إنشاء المهام اليومية وتحديد أوقاتها وأولوياتها.
+- عرض الجدول اليومي.
+- تقويم للتنقل بين الأيام والأشهر.
+- متابعة المهام المنجزة والمتبقية.
+- إحصائيات مرئية لمستوى الإنجاز.
+- تسجيل الصلوات ومتابعة أدائها.
+- تخصيص المظهر والألوان.
+
+**التقنيات:** Flutter, Dart, SQLite, Provider
+
+**الجوانب الهندسية:** بناء واجهات تفاعلية، تنظيم البيانات الزمنية، إدارة الحالة، وعرض الإحصائيات.
+
+### 05. متابعتي | Mutabaati
+
+**Offline Personal Tracking & Lifestyle Management Application**
+
+تطبيق عربي لإدارة جوانب متعددة من الحياة اليومية، يجمع بين متابعة العادات والعبادات والمصاريف والمهام والمواعيد.
+
+**أبرز الوظائف:**
+- متابعة الصلوات والعادات اليومية.
+- إنشاء بنود متابعة قابلة للتخصيص.
+- تسجيل المصاريف الشخصية.
+- تنظيم المهام والمواعيد.
+- عرض التقارير الأسبوعية والشهرية.
+- إعدادات المستخدم والحقول المخصصة.
+- إدارة البيانات المحلية.
+
+**التقنيات:** Flutter, Dart, Riverpod, Drift, SQLite
+
+**الجوانب الهندسية:** تصميم تطبيق متعدد الوحدات، إدارة البيانات محليًا، تصميم واجهات عربية، وتنظيم التنقل بين الشاشات.
+
+---
+
+## الخبرة العملية في الشبكات وأنظمة المراقبة
+
+### Computer Networks & CCTV Systems Experience
+
+إلى جانب تطوير البرمجيات، أمتلك خبرة عملية بصفتي متخصصًا وفنيًا في شبكات الحاسوب وأنظمة كاميرات المراقبة.
+
+شاركت في تنفيذ أعمال تقنية ضمن عدة مشاريع في **محافظة ذمار – اليمن**، شملت منشآت ومرافق خدمية.
+
+### مشاريع ميدانية بارزة
+
+**مستشفى نجم الجزيرة | Najm Al-Jazeera Hospital**
+
+محافظة ذمار – اليمن
+
+المشاركة في الأعمال التقنية المتعلقة بالشبكات وأنظمة كاميرات المراقبة ضمن المشروع.
+
+**حديقة أرض الأحلام | Ard Al-Ahlam Park**
+
+محافظة ذمار – اليمن
+
+المشاركة في تنفيذ الأعمال التقنية المتعلقة بالشبكات وأنظمة المراقبة في المشروع.
+
+تمثل هذه التجارب جانبًا من خبرتي الميدانية في التعامل مع متطلبات المنشآت والبيئات التشغيلية الفعلية، إلى جانب خبرتي في تطوير التطبيقات البرمجية.
+
+---
+
+## مجالات الاهتمام المهني
+
+- تطوير تطبيقات الهواتف الذكية باستخدام Flutter.
+- تطوير الأنظمة المحاسبية والإدارية.
+- تطوير تطبيقات Windows باستخدام .NET.
+- هندسة البرمجيات وتصميم الأنظمة.
+- قواعد البيانات وإدارة المعلومات.
+- شبكات الحاسوب والبنية التحتية التقنية.
+- أنظمة كاميرات المراقبة.
+- تكامل الحلول البرمجية مع بيئات العمل الحقيقية.
+
+---
+
+## أسلوب العمل والتطوير
+
+أهتم باتباع ممارسات هندسية تساعد على تطوير برامج قابلة للفهم والصيانة والتوسع، ومنها:
+
+- تحليل المتطلبات وتحديد وظائف النظام.
+- تصميم واجهات تراعي سهولة الاستخدام.
+- تقسيم التطبيقات إلى وحدات برمجية واضحة.
+- تنظيم البيانات وحماية اتساق العمليات.
+- كتابة الاختبارات ومراجعة النتائج.
+- توثيق المشاريع وشرح طريقة تشغيلها.
+- استخدام Git وGitHub لإدارة ملفات المشاريع وتوثيق التطوير.
+
+---
+
+## Professional Summary — English
+
+I am **Wahib Al-Kaboudi**, a software developer and computer networking and CCTV systems specialist based in Yemen.
+
+My technical experience combines mobile and desktop application development with hands-on work in computer networking and surveillance systems.
+
+I develop applications using **Flutter, Dart, C#, and .NET**, with a particular interest in accounting systems, inventory management, business applications, and personal productivity tools.
+
+My software projects include Daftar Al-Hesab, Maqwati, AlWahib ERP, Jadwali, and Mutabaati.
+
+In addition to software development, I have participated in networking and CCTV-related technical projects in Dhamar Governorate, Yemen, including work at **Najm Al-Jazeera Hospital** and **Ard Al-Ahlam Park**.
+
+My professional interests include software engineering, database management, application development, computer networks, and practical technology solutions.
+
+I am interested in professional opportunities that allow me to apply and further develop my technical skills while contributing to meaningful projects.
+
+---
+
+## التواصل | Contact
+
+**الاسم:** وهيب الكبودي | Wahib Al-Kaboudi
+
+**المجال المهني:** Software Development, Computer Networks & CCTV Systems
+
+**الموقع:** اليمن | Yemen
+
+**GitHub:** [github.com/Wahibamin](https://github.com/Wahibamin)
+
+**التواصل المهني:** عبر حساب GitHub
+
+---
+
+*Wahib Al-Kaboudi — Software Development, Computer Networks & CCTV Systems*
+
+*Personal Portfolio & Technical Projects*
