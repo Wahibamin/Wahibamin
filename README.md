@@ -48,12 +48,12 @@
 | المشروع | وصف مختصر | التقنيات |
 |---|---|---|
 | [مقوتي (Maqwati)](https://github.com/Wahibamin/Maqwati) | إدارة المبيعات والمخزون والديون والمصاريف | Flutter, Dart, Drift, SQLite |
-| دفتر الحساب (Daftar Al-Hesab) | إدارة الفواتير والمخزون والحسابات على الهاتف | Flutter, Dart, SQLite |
-| الوهيب ERP (AlWahib ERP) | نموذج لنظام محاسبي مكتبي على Windows | C#, .NET, WPF, SQLite |
-| جدولي (Jadwali) | تنظيم المهام والتقويم ومتابعة الإنجاز | Flutter, Dart |
-| متابعتي (Mutabaati) | متابعة العادات والمصاريف والمهام والتقارير | Flutter, Dart, SQLite |
+| [دفتر الحساب (Daftar Al-Hesab)](https://github.com/Wahibamin/Daftar-AlHesab) | إدارة الفواتير والمخزون والحسابات على الهاتف | Flutter, Dart, SQLite |
+| [الوهيب ERP (AlWahib ERP)](https://github.com/Wahibamin/-AlWahibERP) | نموذج لنظام محاسبي مكتبي على Windows | C#, .NET, WPF, SQLite |
+| [جدولي (Jadwali)](https://github.com/Wahibamin/Jadwali) | تنظيم المهام والتقويم ومتابعة الإنجاز | Flutter, Dart |
+| [متابعتي (Mutabaati)](https://github.com/Wahibamin/Mutabaati) | متابعة العادات والمصاريف والمهام والتقارير | Flutter, Dart, SQLite |
 
-*ستضاف الروابط المباشرة لبقية المستودعات بعد اكتمال نشر ملفاتها.*
+*ملاحظة: قد تحتوي بعض المستودعات على أعمال تطويرية غير مكتملة؛ راجع حالة كل مشروع في README الخاص به.*
 
 ## الخبرة الفنية في الشبكات وأنظمة كاميرات المراقبة
 
